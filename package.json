@@ -1,0 +1,26 @@
+{
+  "name": "react-modificable",
+  "version": "0.0.1",
+  "description": "Module for create reusable components with modifiers like in BEM methodology.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aichelnokov/react-modificable.git"
+  },
+  "keywords": [
+    "react",
+    "bem",
+    "modifiers",
+    "reusable",
+    "components"
+  ],
+  "author": "Aleksey I. Chelnokov",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/aichelnokov/react-modificable/issues"
+  },
+  "homepage": "https://github.com/aichelnokov/react-modificable#readme"
+}
