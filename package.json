@@ -1,14 +1,14 @@
 {
-  "name": "react-modificable",
+  "name": "react-bem-notation",
   "version": "0.0.1",
   "description": "Module for create reusable components with modifiers like in BEM methodology.",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aichelnokov/react-modificable.git"
+    "url": "git+https://github.com/aichelnokov/react-bem-notation.git"
   },
   "keywords": [
     "react",
@@ -20,7 +20,7 @@
   "author": "Aleksey I. Chelnokov",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/aichelnokov/react-modificable/issues"
+    "url": "https://github.com/aichelnokov/react-bem-notation/issues"
   },
-  "homepage": "https://github.com/aichelnokov/react-modificable#readme"
+  "homepage": "https://github.com/aichelnokov/react-bem-notation#readme"
 }
