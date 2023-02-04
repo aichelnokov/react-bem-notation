@@ -30,9 +30,11 @@ return (
 );
 ```
 
->__Note!__
->All block modifiers that are __changed only by the component itself (from state)__ and will not change from the outside (from props) should be passed from the component state
->All block modifiers that are __modified by the parent component (from props)__ and will not be modified internally (from state) must be passed from props
+### Important info about better perfomance.
+
+All block modifiers that are __changed only by the component itself (from state)__ and will not change from the outside (from props) should be passed from the component state
+
+All block modifiers that are __modified by the parent component (from props)__ and will not be modified internally (from state) must be passed from props
 
 ## Example
 
