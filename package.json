@@ -19,6 +19,9 @@
   ],
   "author": "Aleksey I. Chelnokov",
   "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
   "bugs": {
     "url": "https://github.com/aichelnokov/react-bem-notation/issues"
   },
